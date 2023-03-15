@@ -1,10 +1,10 @@
 # HTML(HyperText Markup Language)
 ### :웹 문서를 표시해주는 언어
 
-## <pre><code><!DOCTYPE html></code></pre>
+## <p><!DOCTYPE html></p>
 #### :현재 문서가 HTML5 언어로 작성한 웹 문서라는 뜻
 
-## <pre><code><html>~</html></code></pre>
+## <p><html>~</html></p>
 #### : 웹 문서의 시작과 끝을 나타내는 태그
 #### : 웹 브라우저가 <html> 태그를 만나면 </html>까지 소스를 읽어 화면에 표시
 
